@@ -1,0 +1,102 @@
+city:waterloo
+Name: The Bauer Kitchen | Address: 187 King St. | Price: 2
+Name: King Street Trio | Address: 40 King St. South | Price: 2
+Name: Beertown Public House- Waterloo | Address: 75 King St. South | Price: 2
+Name: Wildcraft | Address: 425 King Street North | Price: 2
+Name: Proof Kitchen and Lounge | Address: 110 Erb Street West | Price: 2
+Name: Sole Restaurant | Address: 83 Erb Street West Building Two | Price: 2
+Name: bloom. | Address: 108 University Avenue East | Price: 2
+
+city:toronto
+Name: Scaramouche Restaurant | Address: 1 Benvenuto Place | Price: 4
+Name: The Sultan's Tent | Address: 49 Front St E | Price: 4
+Name: Salt Wine Bar | Address: 225 Ossington Ave | Price: 3
+Name: North 44 | Address: 2537 Yonge St. | Price: 3
+Name: Woods Restaurant & Bar | Address: 45 Colborne Street | Price: 3
+Name: Edulis Restaurant | Address: 169 Niagara Street | Price: 3
+Name: Ginko Japanese Restaurant | Address: 655 Dixon Rd. | Price: 3
+Name: Lula Lounge | Address: 1585 Dundas West | Price: 3
+Name: Il Fornello on King | Address: 214 King St. West | Price: 3
+Name: Momofuku DAISHŌ - Toronto | Address: 190 University Ave | Price: 4
+Name: 360 The Restaurant at the CN Tower | Address: 301 Front St West | Price: 4
+Name: El Caballito Tequila Bar | Address: 220 King Street West | Price: 2
+Name: Stratus | Address: 79 Wellington St. West | Price: 2
+Name: Trattoria Taverniti | Address: 591 College Street | Price: 2
+Name: The Old Spaghetti Factory - Toronto | Address: 54 The Explanade, | Price: 2
+Name: Against the Grain Urban Tavern-Corus Quay | Address: 25 Dockside Drive | Price: 2
+Name: Lisa Marie | Address: 638 Queen Street West | Price: 2
+Name: Playa Cabana | Address: 111 Dupont St | Price: 2
+Name: Kirei Sushi Bar | Address: 81 Church Street | Price: 2
+Name: Fin Izakaya | Address: 55 Eglinton Ave. East | Price: 2
+Name: Harbour Sixty | Address: 60 Harbour Street | Price: 4
+Name: Drake One Fifty | Address: 150 York Street | Price: 4
+Name: Auberge du Pommier | Address: 4150 Yonge Street | Price: 4
+Name: Cafe Bar Pasta Inc. | Address: 1588 Dundas St W | Price: 2
+Name: Union Social Eatery St. Clair | Address: 21 St Clair West | Price: 2
+
+city:Ottawa
+Name: Atelier | Address: 540 Rochester Street | Price: 4
+Name: Hy's Steak House - Ottawa | Address: 170 Queen Street | Price: 4
+Name: Restaurant e18hteen | Address: 18 York Street | Price: 4
+Name: Social - Ottawa | Address: 537 Sussex Drive | Price: 3
+Name: Wilfrid's Restaurant - Fairmont Chateau Laurier | Address: 1 Rideau St | Price: 3
+Name: The Shore Club - Ottawa | Address: 11 Colonel By Drive | Price: 3
+Name: Spin Kitchen & Bar - Marriott Ottawa | Address: 100 Kent Street | Price: 2
+Name: Sidedoor Contemporary Kitchen & Bar | Address: 18 B York Street | Price: 2
+Name: Sante Restaurant | Address: 45 Rideau Street | Price: 2
+Name: Tosca Ristorante - Ottawa | Address: 144 O'Connor Street | Price: 2
+Name: Real Sports Bar & Grill - Ottawa | Ad
+
+city:Chicago
+Name: 10pin Bowling Lounge | Address: 330 N State Street | Price: 4
+Name: Chicago Chop House | Address: 60 W Ontario St | Price: 4
+Name: Osteria Langhe | Address: 2824 West Armitage Avenue | Price: 2
+Name: The Capital Grille - Chicago - Downtown | Address: 633 North Saint Clair | Price: 4
+Name: Signature Room at the 95th | Address: 875 N. Michigan Avenue | Price: 4
+Name: Café Ba-Ba-Reeba | Address: 2024 North Halsted St. | Price: 2
+Name: Gaudí Café | Address: 1147 W Grand Ave | Price: 2
+Name: Sola | Address: 3868 N Lincoln | Price: 2
+Name: goosefoot | Address: 2656 W Lawrence Ave | Price: 4
+Name: Fat Rice | Address: 2957 W. Diversey Ave | Price: 2
+Name: Spencer's Jolly Posh Foods | Address: 3755 N Southport | Price: 2
+Name: Ditka's - Chicago | Address: 100 E. Chestnut Street | Price: 3
+Name: The Terrace Rooftop Bar Restaurant | Address: Conrad Chicago | Price: 3
+Name: Anteprima | Address: 5316 N Clark Street | Price: 3
+Name: Gibsons Bar & Steakhouse - Chicago | Address: 1028 North Rush | Price: 4
+Name: HUB 51 | Address: 51 W. Hubbard | Price: 2
+Name: L2O | Address: 2300 N. Lincoln Park West | Price: 4
+Name: Kamehachi of Tokyo - Wells Street | Address: 1531 N Wells Street | Price: 2
+Name: RL Restaurant | Address: 115 E Chicago Ave | Price: 3
+Name: AraOn | Address: 160 W. Adams Street | Price: 2
+Name: Bottlefork | Address: 441 North Clark Street | Price: 2
+Name: Macku Signature | Address: 2925 N Halsted St | Price: 3
+Name: Chuck's: A Kerry Simon Kitchen | Address: 224 North Michigan Ave | Price: 2
+Name: Coco Pazzo | Address: 300 West Hubbard | Price: 3
+Name: David Burke's Primehouse in the James Hotel | Address: 616 N Rush Street | Price: 3
+
+city:New York
+Name: Orsay | Address: 1057-59 Lexington Avenue | Price: 3
+Name: Hill Country - Flatiron | Address: 30 West 26th Street | Price: 2
+Name: Bacchanal | Address: 146 Bowery | Price: 2
+Name: SKÁL | Address: 37 Canal St. | Price: 3
+Name: MINT | Address: 150 E. 50th Street | Price: 3
+Name: Ariana | Address: 138-140 W Houston St | Price: 3
+Name: Hudson Place Restaurant & Bar | Address: 538 3rd Ave | Price: 2
+Name: Perla | Address: 24 Minetta Lane | Price: 3
+Name: Lazzara's Pizza Cafe | Address: 221 West 38th Street | Price: 2
+Name: CAMAJE Bistro | Address: 85 MacDougal St | Price: 2
+Name: Barn Joo | Address: 893 Broadway | Price: 3
+Name: Mulberry Project | Address: 149 Mulberry St. | Price: 3
+Name: The Writing Room | Address: 1703 2nd Avenue | Price: 2
+Name: Ai Fiori | Address: 400 5th Avenue | Price: 3
+Name: Spina | Address: 175 Avenue B | Price: 3
+Name: Maysville | Address: 17 W. 26th St | Price: 3
+Name: Grape & Vine | Address: 52 W 13th Street | Price: 3
+Name: Barca | Address: 244 Mulberry St. | Price: 3
+Name: Tacombi Fonda Nolita | Address: 267 Elizabeth St | Price: 2
+Name: Kori Tribeca | Address: 253 Church Street | Price: 2
+Name: Kafana | Address: 116 Avenue C | Price: 2
+Name: Nick & Toni's Cafe Manhattan | Address: 100 W. 67th St. | Price: 2
+Name: Dark Horse | Address: 17 Murray Street | Price: 2
+Name: Dinosaur Bar-B-Que - Harlem | Address: 700 west 125th st | Price: 2
+Name: Chapter One | Address: 33 Greenwich Avenue | Price: 2
